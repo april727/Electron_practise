@@ -1,6 +1,8 @@
 # jupyter folder
 .jupyter
 .ipynb_checkpoints
+.virtual_documents/
+*.ipynb
 
 # .git folder
 .git/
