@@ -1,3 +1,7 @@
+# jupyter folder
+.jupyter
+.ipynb_checkpoints
+
 # .git folder
 .git/
 # Logs
@@ -123,6 +127,7 @@ dist
 
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
+.vscode
 
 # yarn v2
 .yarn/cache
